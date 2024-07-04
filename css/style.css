@@ -1,0 +1,129 @@
+h1
+{
+    color:black;(0, 60, 255);
+    font-size:14pt;
+    
+}
+
+
+  
+
+h2{
+
+    color:crimson;
+}
+p
+{
+    color:black;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr
+{
+height:20px;
+color:brown;
+background-color:blueviolet;
+border:none;
+}
+
+.logo
+{
+    background-color:darkblue;
+    width: 90%;
+    height: 50px;
+    float: left;
+}
+
+
+menu
+{
+background-color: cornflowerblue;
+width:90%;
+height:50px;
+float: left;
+}
+*{box-sizing:border-box}
+body{font-family:Verdana,sans-serif;margin:0}
+.mySlides {display:none}
+img{vertical-align:middle;}
+/*
+.slider /*slideshow container*/
+{
+max-width: 1000px;
+margin:auto;
+position: relative;
+}
+
+.myslide /*image is hidden by default*/
+{
+display: none;
+}
+
+.prev, .next /*prev and next button*/
+{
+    cursor: pointer;
+    position: absolute;
+    top:50%;
+    width:auto;
+    padding:20px;
+    transition:0.5s;
+    border: radius: 0 3px 3px 0;
+    user-select:none;
+
+}
+
+table,tr,td,th
+{
+  border: 1px solid ;  
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+tr,td,th
+{
+    border: 1px solid silver;  
+    border-collapse: collapse;  
+}
+
+tr 
+{
+background-color: palevioletred;
+color:rgb(22, 23, 23);
+}
+
+tr:nth-child(even)
+{
+    background-color:rgb(222, 0, 238);
+}
+
+tr:hover
+{
+    background-color:silver;
+nav
+
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+{
+font-family:Verdana;
+padding-bottom: 30px;
+padding-top: 20px;
+padding-left:10px;
+padding-right:10px;
+text-align: right;
+font-size: 10pt;
+
+}
+
+a
+{
+text-decoration:none;
+margin-right:15px;
+}
+
